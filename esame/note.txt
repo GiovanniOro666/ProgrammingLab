@@ -1,0 +1,4 @@
+implementa none fatto
+non accettare temperature non numeriche, vuote o nulle fatto
+validazione input
+variabile name per istanziare il file fatto
